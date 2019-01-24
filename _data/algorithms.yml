@@ -1,0 +1,13 @@
+# algorithm
+#  O(n)
+#   - worst time
+#   - worst space
+#  When to use
+#  link to sample code (python; eventually other languages from a dropdown)
+
+- algorithm: BFS
+- algorithm: DFS
+- algorithm: Binary Search
+- algorithm: Merge Sort
+- algorithm: Quick Sort
+- algorithm: Tree Insert
